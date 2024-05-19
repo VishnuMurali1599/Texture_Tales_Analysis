@@ -21,6 +21,20 @@ Welcome to the Texture Tales Analysis project! This project aims to analyze the 
 - 11.Category Analysis: Calculate the total quantity, revenue, and discount for each category.
 - 12.Top Selling Product by Category: Identify the top-selling product for each category.
 
+## Key Insgihts from data
+
+![1](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/45893ccb-4fd9-4a72-8efc-91937ea2a9fc)
+
+![2](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/ca2221af-5a0f-42c4-b2b2-616127505f9c)
+
+![5](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/3e2b0d90-9b9b-4002-9b24-2a0035f66a45)
+
+![8](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/0f3e11b5-2f4f-4eea-ae28-4c6766d080cc)
+
+![11](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/93af1594-171f-4a36-9094-948b016d8946)
+
+![12](https://github.com/VishnuMurali1599/Texture_Tales_Analysis/assets/133478960/27103d3c-c8b7-4bd9-9d9f-f9110be4892f)
+
 ## Data Sources
 - Sales Data: Includes transaction details, product IDs, quantities sold, prices, discounts, and membership status.
 - Product Details: Contains product names, categories, and segments.
