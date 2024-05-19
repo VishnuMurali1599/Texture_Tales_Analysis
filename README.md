@@ -1,6 +1,6 @@
 # Texture Tales Analysis
 ## Project Overview
-### Welcome to the Texture Tales Analysis project! This project aims to analyze the sales performance and generate a financial report for Texture Tales Clothing Company, a trendy fashion brand dedicated to providing an optimized range of clothing and lifestyle wear for the modern adventurer. The goal is to assist the merchandising team in making data-driven decisions to enhance their sales strategies and business operations.
+Welcome to the Texture Tales Analysis project! This project aims to analyze the sales performance and generate a financial report for Texture Tales Clothing Company, a trendy fashion brand dedicated to providing an optimized range of clothing and lifestyle wear for the modern adventurer. The goal is to assist the merchandising team in making data-driven decisions to enhance their sales strategies and business operations.
 
 ## Objectives
 Assess overall sales performance.
